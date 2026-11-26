@@ -10,8 +10,8 @@
 
 | File | Description |
 | :--- | :--- |
-| **[`Patient_Health_LSTM_Forecasting.ipynb`](./Patient_Health_LSTM_Forecasting.ipynb)** | Complete Google Colab / Jupyter Notebook containing the upgraded physiological data generator, leakage-free temporal windowing pipeline, baseline benchmarks, multivariate LSTM model, diagnostic visualizations, and real-time clinical inference function with executed outputs. |
-| **[`Patient_Health_LSTM_Project_Report.docx`](./Patient_Health_LSTM_Project_Report.docx)** | Formal academic project report formatted according to Brainware University BCA guidelines, complete with Cover Page, Certificate, Acknowledgement, and 6 full chapters. |
+| **[`Patient_Health_LSTM_Forecasting.ipynb`](./Patient Health LSTM Forecasting.ipynb)** | Complete Google Colab / Jupyter Notebook containing the upgraded physiological data generator, leakage-free temporal windowing pipeline, baseline benchmarks, multivariate LSTM model, diagnostic visualizations, and real-time clinical inference function with executed outputs. |
+| **[`Patient_Health_LSTM_Project_Report.docx`](./Patient Health LSTM Project Report.docx)** | Formal academic project report formatted according to Brainware University BCA guidelines, complete with Cover Page, Certificate, Acknowledgement, and 6 full chapters. |
 
 ---
 
